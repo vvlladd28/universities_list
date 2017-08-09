@@ -90,7 +90,7 @@ Run the Project
 ----------------
 
 - Clone Project 
-`git clone https://github.com/vargi/university-domains-list.git`
+`git clone https://github.com/vvlladd28/universities_list.git
 - Setup and activate your virtual environment
 - Install requirements
 `pip install -r requirements.txt`
